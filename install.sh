@@ -1,3 +1,3 @@
 #!/bin/bash
 npm install -g @anthropic-ai/claude-code
-echo "source ~/dotfiles/.bashrc" >> ~/.bashrc
+echo "source /workspaces/.codespaces/.persistedshare/dotfiles/.bashrc" >> ~/.bashrc
